@@ -1,10 +1,14 @@
 # Xaiko Visuals Press Kit
 <a id="top"></a>
 ## Table of Contents
+- [Xaiko Visuals Press Kit](#xaiko-visuals-press-kit)
+  - [Table of Contents](#table-of-contents)
   - [🙋 Bio](#-bio)
     - [🙋 Bio for Press](#-bio-for-press)
   - [🛠️ Requirements](#️-requirements)
     - [Security Requirements](#security-requirements)
+      - [❗ Organizers are responsable for ensuring the safety and security of the equipment and personal bags at all times while at the venue. A secure space must be provided for the storage of equipment and performance safeguarded against unauthorised access, theft, personal or enviromental damage.](#-organizers-are-responsable-for-ensuring-the-safety-and-security-of-the-equipment-and-personal-bags-at-all-times-while-at-the-venue-a-secure-space-must-be-provided-for-the-storage-of-equipment-and-performance-safeguarded-against-unauthorised-access-theft-personal-or-enviromental-damage)
+      - [⚠️ Failure to meet the specified security requirements will result in reimbursement to the artist for any damages, loss, or theft incurred during the performance.](#️-failure-to-meet-the-specified-security-requirements-will-result-in-reimbursement-to-the-artist-for-any-damages-loss-or-theft-incurred-during-the-performance)
     - [Technical Requirements](#technical-requirements)
     - [Space Requirements](#space-requirements)
     - [Ambient Lighting](#ambient-lighting)
@@ -19,11 +23,15 @@
   - [🏨 Accommodations](#-accommodations)
   - [💸 Fee Structure](#-fee-structure)
     - [⚠️ Important Info](#️-important-info)
+      - [Pricing follows the structure outlined below.](#pricing-follows-the-structure-outlined-below)
+      - [A 50% deposit is required to secure the booking, with the remaining 50% due before the performance.](#a-50-deposit-is-required-to-secure-the-booking-with-the-remaining-50-due-before-the-performance)
+      - [Additional negotiations with the organizer can be applied!](#additional-negotiations-with-the-organizer-can-be-applied)
     - [💸 Fee pricing structure](#-fee-pricing-structure)
   - [📱 Social Media](#-social-media)
   - [Samples](#samples)
   - [📅 Past Events and Performances](#-past-events-and-performances)
     - [Dragoste Si Pasi](#dragoste-si-pasi)
+    - [Back to Top](#back-to-top)
 
 
 ## 🙋 Bio
@@ -125,6 +133,38 @@ Xaiko Visuals crafts immersive visual experiences that drives the public into a 
 
 ## Samples
 
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/LucianPetri/XaikoVisuals/raw/main/Branding/Promo%20Valentines.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/LucianPetri/XaikoVisuals/raw/main/Branding/New%20promo%20Xaiko%20Visuals.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/LucianPetri/XaikoVisuals/raw/main/Branding/Samples/Robots.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/LucianPetri/XaikoVisuals/raw/main/Branding/Samples/Melting.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/LucianPetri/XaikoVisuals/raw/main/Branding/Samples/Mountain.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/LucianPetri/XaikoVisuals/raw/main/Branding/Samples/Halloween%20Spiders.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/LucianPetri/XaikoVisuals/raw/main/Branding/Samples/Opal.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/LucianPetri/XaikoVisuals/raw/main/Branding/Samples/Fractal.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## 📅 Past Events and Performances
