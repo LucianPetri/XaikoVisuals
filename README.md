@@ -1,41 +1,46 @@
-# Xaiko Visuals Press Kit
+---
+---
+
 <a id="top"></a>
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+  <img src="Branding/Logo-no-background.png" width="250" height="250" style="margin-right: 20px;">
+  <h1 style="text-align: right;">Xaiko Visuals</h1>
+</div>
+
 ## Table of Contents
-- [Xaiko Visuals Press Kit](#xaiko-visuals-press-kit)
-  - [Table of Contents](#table-of-contents)
-  - [🙋 Bio](#-bio)
-    - [🙋 Bio for Press](#-bio-for-press)
-  - [🛠️ Requirements](#️-requirements)
-    - [Security Requirements](#security-requirements)
-      - [❗ Organizers are responsable for ensuring the safety and security of the equipment and personal bags at all times while at the venue. A secure space must be provided for the storage of equipment and performance safeguarded against unauthorised access, theft, personal or enviromental damage.](#-organizers-are-responsable-for-ensuring-the-safety-and-security-of-the-equipment-and-personal-bags-at-all-times-while-at-the-venue-a-secure-space-must-be-provided-for-the-storage-of-equipment-and-performance-safeguarded-against-unauthorised-access-theft-personal-or-enviromental-damage)
-      - [⚠️ Failure to meet the specified security requirements will result in reimbursement to the artist for any damages, loss, or theft incurred during the performance.](#️-failure-to-meet-the-specified-security-requirements-will-result-in-reimbursement-to-the-artist-for-any-damages-loss-or-theft-incurred-during-the-performance)
-    - [Technical Requirements](#technical-requirements)
-    - [Space Requirements](#space-requirements)
-    - [Ambient Lighting](#ambient-lighting)
-  - [⚙️ Gear and Software](#️-gear-and-software)
-      - [Main Hardware](#main-hardware)
-      - [Controllers and Audio Input](#controllers-and-audio-input)
-      - [Projectors](#projectors)
-      - [Additional Equipment](#additional-equipment)
-      - [Software](#software)
-  - [🎨 Type of Animation](#-type-of-animation)
-  - [⏱️ Session Details](#️-session-details)
-  - [🏨 Accommodations](#-accommodations)
-  - [💸 Fee Structure](#-fee-structure)
-    - [⚠️ Important Info](#️-important-info)
-      - [Pricing follows the structure outlined below.](#pricing-follows-the-structure-outlined-below)
-      - [A 50% deposit is required to secure the booking, with the remaining 50% due before the performance.](#a-50-deposit-is-required-to-secure-the-booking-with-the-remaining-50-due-before-the-performance)
-      - [Additional negotiations with the organizer can be applied!](#additional-negotiations-with-the-organizer-can-be-applied)
-    - [💸 Fee pricing structure](#-fee-pricing-structure)
-  - [📱 Social Media](#-social-media)
-  - [Samples](#samples)
-  - [📅 Past Events and Performances](#-past-events-and-performances)
-    - [Dragoste Si Pasi](#dragoste-si-pasi)
-    - [Back to Top](#back-to-top)
+- [🙋 Bio](#-bio)
+  - [🙋 Bio for Press](#-bio-for-press)
+- [🛠️ Requirements](#️-requirements)
+  - [Security Requirements](#security-requirements)
+  - [Technical Requirements](#technical-requirements)
+  - [Space Requirements](#space-requirements)
+  - [Ambient Lighting](#ambient-lighting)
+- [⚙️ Gear and Software](#️-gear-and-software)
+    - [Main Hardware](#main-hardware)
+    - [Controllers and Audio Input](#controllers-and-audio-input)
+    - [Projectors](#projectors)
+    - [Additional Equipment](#additional-equipment)
+    - [Software](#software)
+- [🎨 Type of Animation](#-type-of-animation)
+- [⏱️ Session Details](#️-session-details)
+- [🏨 Accommodations](#-accommodations)
+- [💸 Fee Structure](#-fee-structure)
+  - [⚠️ Important Info](#️-important-info)
+  - [💸 Fee pricing structure](#-fee-pricing-structure)
+- [📱 Social Media](#-social-media)
+- [Samples](#samples)
+- [📅 Past Events and Performances](#-past-events-and-performances)
+  - [Dragoste Si Pasi](#dragoste-si-pasi)
+  - [Back to Top](#back-to-top)
 
 
 ## 🙋 Bio
-Lucian, also known as Xaiko Visuals, is a leading AI developer and visual artist based in Sibiu, Romania. With over five years of experience in Resolume and expertise in Stable Diffusion and Large Language Models, Lucian skillfully combines his professional work experience with his personal passion for visual storytelling and music. As Xaiko Visuals, he creates immersive visual experiences for music festivals and events, producing unique visual narratives that captivate and engage audiences.
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="Branding/Logo-no-background.png" width="200" height="200" style="margin-right: 20px;">
+  <div style="text-align: right;">
+    Lucian, also known as Xaiko Visuals, is a leading AI developer and visual artist based in Sibiu, Romania. With over five years of experience in Resolume and expertise in Stable Diffusion and Large Language Models, Lucian skillfully combines his professional work experience with his personal passion for visual storytelling and music. As Xaiko Visuals, he creates immersive visual experiences for music festivals and events, producing unique visual narratives that captivate and engage audiences.
+  </div>
+</div>
 
 ### 🙋 Bio for Press
 Xaiko Visuals crafts immersive visual experiences that drives the public into a realm of dark and captivating aesthetics. With a focus on enriching the sensory experience, Xaiko's performances are known for their profound impact, drawing viewers into a deeply engaging visual journey.
