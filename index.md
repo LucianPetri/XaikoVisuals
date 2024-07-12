@@ -81,7 +81,7 @@ Xaiko Visuals crafts immersive visual experiences that drives the public into a 
 - **Audio Interface**: Focusrite i2i
 
 #### Projectors
-- **Main Projector**: BenQ MH733 1080p, 4000 ANSI lumens
+- **Main Projector**: ViewSONIC 1080p, 3200 ANSI lumens
 - **Secondary Projectors**: Minimum 1080p/4k, 3000 ANSI lumens; rented or venue-provided
 
 #### Additional Equipment
@@ -125,9 +125,9 @@ Xaiko Visuals crafts immersive visual experiences that drives the public into a 
 
 ### 💸 Fee pricing structure
 
-- **Base Fee**: €100 for up to 6 hours/day; €200 for 6-12 hours/day.
-- **Original Content**: €30 per hour of original content diffusion 
-- **Additional Projectors**: €80 for each extra projector.
+- **Base Fee**: €400 for up to 6 hours/day; €800 for 6-12 hours/day.
+- **Original Content**: €35 per hour of original content diffusion 
+- **Additional Projectors**: Organizer supports the renting price.
 - **Large Venues/Festivals**: Prices are adjusted based on size of the event
 
 ## 📱 Social Media
