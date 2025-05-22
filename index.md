@@ -4,7 +4,7 @@
 <a id="top"></a>
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
   <img src="Branding/Logo-no-background.png" width="250" height="250" style="margin-right: 20px;">
-  <h1 style="text-align: right;">Xaiko Visuals</h1>
+  <h1 style="text-align: right;">Xaiko Visuals [ Saraw ]</h1>
 </div>
 
 ## Table of Contents
